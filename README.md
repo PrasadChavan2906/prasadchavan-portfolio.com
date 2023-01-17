@@ -6,9 +6,12 @@ Hello! Welcome to my portfolio.
  1. JavaScript
  2. NodeJS
  3. Repl.it
- 4. Java
- 5. Electronics
- 6. Data Science and Machine Learning
- 7. Computer Networking
- 8. IoT
+ 4. HTML
+ 5. CSS3
+ 6.nodeJS
+ 7. reactJS
+ 8. Web Hosting
+ 9. Data Science and Machine Learning
+ 10. IoT
+ 11. Networkind
  
