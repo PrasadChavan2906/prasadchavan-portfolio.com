@@ -7,8 +7,8 @@ Hello! Welcome to my portfolio.
  2. NodeJS
  3. Repl.it
  4. HTML
- 5. CSS3
- 6.nodeJS
+ 5. CSS
+ 6. 6.nodeJS
  7. reactJS
  8. Web Hosting
  9. Data Science and Machine Learning
