@@ -13,5 +13,5 @@ Hello! Welcome to my portfolio.
  8. Web Hosting
  9. Data Science and Machine Learning
  10. IoT
- 11. Networkind
+ 11. Networking
  
